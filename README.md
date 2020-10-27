@@ -1,3 +1,8 @@
+
+![68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966](https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif)
+
+
+
 <h1 align="center">Hi 👋, I'm Estay</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 
