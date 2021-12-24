@@ -27,6 +27,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ekmadish)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
